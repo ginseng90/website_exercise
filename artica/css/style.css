@@ -1,0 +1,83 @@
+.header{
+  height: 101px;
+  border-top: 2px solid #161f32;
+}
+
+.inner-box{
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.inner-box:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.logo{
+float: left;
+}
+
+.logo-link{
+  width: 122px;
+  height: 30px;
+  background: url("../images/logo_artica.gif") no-repeat;
+  text-indent: 999px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.wrap-btn-menu-toggle{
+  display: table-cell;
+  line-height: 101px;
+  float: right;
+  vertical-align: middle;
+}
+
+.btn-menu-toggle{
+  width: 26px;
+  height: 23px;
+  background: url("../images/btn_show_menu.gif") no-repeat;
+  text-indent: -9999px;
+  border: 0;
+}
+
+.gnb{
+  width: 340px;
+  height: 100%;
+  padding-left: 38px;
+  position: fixed;
+  top: 0;
+  font-size: 37px;
+  color: #ffffff;
+}
+
+.gnb-heading{
+  font-family: ;
+  font-size: ;
+}
+
+.gnb-list{
+  margin-top: 50px;
+}
+
+.gnb-item{
+  margin-bottom: -19px;
+}
+
+.gnb-link{
+  font-weight: 300;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.btn-menu-close{
+  width: 12px;
+  height: 12px;
+  background: url("../images/btn_close.gif") no-repeat;
+  border: ;
+}
+
+
+
+
