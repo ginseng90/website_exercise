@@ -718,11 +718,11 @@
   float: left;
 }
 
-.blog-list-item.first-child{
+.blog-list-item:first-child{
   margin-right: 30px;
 }
 
-.blog-list-item.last-child{
+.blog-list-item:last-child{
   margin-left: 30px;
 }
 
