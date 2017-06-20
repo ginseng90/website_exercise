@@ -1,0 +1,38 @@
+.header{
+  height: 119px;
+  background: #c4a2e2;
+}
+
+.inner-box{
+  width: 940px;
+}
+
+.gnb{
+  margin-top: 44px;
+  background: #edf2f6;
+}
+
+.white{
+  color: #edf2f6;
+}
+
+.util-list{
+  float: left;
+}
+
+.lang-list{
+  float: right;
+}
+
+.logo{
+  float: left;
+  margin-top: 24px;
+}
+
+.logo-link{
+  width: 85px;
+  height: 35px;
+  display: block;
+  background: url("../images/Logo_astro.png") no-repeat;
+  text-indent: -99999px;
+}
